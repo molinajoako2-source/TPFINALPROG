@@ -4,7 +4,7 @@ Aplicación web local que conecta usuarios con problemas en su computadora con t
 
 ## Requisitos
 - Node.js 18 o superior
-- PostgreSQL en ejecución (localhost:5432) con usuario `postgres` / contraseña `BRC2026`
+- PostgreSQL en ejecución (localhost:5432) con usuario `postgres` / contraseña `123456`
 
 ## Puesta en marcha
 ```bash
