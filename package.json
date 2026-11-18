@@ -1,0 +1,11 @@
+{
+  "name": "bercell",
+  "version": "1.0.0",
+  "description": "Bercell - Plataforma para conectar usuarios con técnicos informáticos",
+  "main": "server/server.js",
+  "scripts": {
+    "setup": "node server/setup.js",
+    "start": "node server/server.js"
+  },
+  "dependencies": { "express": "^4.19.2", "pg": "^8.11.5" }
+}
